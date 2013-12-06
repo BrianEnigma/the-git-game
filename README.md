@@ -9,8 +9,17 @@
 
 ## Inventory of Cards
 
-- Code Cards
-    - TODO
+- Code Cards — Two each, for every combination of language and shape:
+    - C++
+    - JavaScript
+    - Python
+    - Ruby
+    - SQL
+    - Circle
+    - Plus
+    - Square
+    - Star
+    - Triangle
 - Action Cards
     - Rebase (x4) "You use rebase at any time to quickly find the source of a bug. This action counteracts the “Bug” card."
     - Bug (x8) "Play on a specific code card another player’s commit. This commit has a bug and must be discarded."
