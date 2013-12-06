@@ -9,11 +9,15 @@
 
 ## Inventory of Cards
 
+- Code Cards
+    - TODO
 - Action Cards
-    - Rebase (x2)
-    - Bug (x4)
-    - Git Blame (x2)
-    - Play one extra card (x2)
-    - RTFM - I read the docs! (x1)
-    - Feature Creep (x5)
+    - Rebase (x4) "You use rebase at any time to quickly find the source of a bug. This action counteracts the “Bug” card."
+    - Bug (x8) "Play on a specific code card another player’s commit. This commit has a bug and must be discarded."
+    - Git Blame (x4) "You use blame at any time. A “Bug” card played against you can be passed to another player."
+    - [Caffeine | All-Nighter] (x4) "Play one extra card."
+    - RTFM - I read the docs! (x2) "This card acts as a commit of any language. It will not cause any merge conflicts."
+    - Feature Creep (x10) "Marketing has changed the requirements to require one additional [language] commit."
+- Feature Cards
+    - (see spreadsheet)
 
