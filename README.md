@@ -8,6 +8,8 @@
 - [Feature Card Spreadsheet](https://docs.google.com/a/elementaltechnologies.com/spreadsheet/ccc?key=0AsDelZZ75dXvdFFVV2lRV3hQTGtoRWcwMHFqVHY5NVE&usp=sharing#gid=0)
 - [Presentation](https://docs.google.com/a/elementaltechnologies.com/presentation/d/1tfpYc7mlG5RjarU2N7eCieb4zkBnLDMcqhZXxr6Dj-M/edit?usp=sharing)
 
+TODO: fix card text on rebase (it has the actual text of bisect)
+
 ## Inventory of Cards
 
 - Code Cards — Two each, for every combination of language and shape:
