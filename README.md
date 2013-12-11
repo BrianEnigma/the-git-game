@@ -104,20 +104,15 @@ On a turn you can do the following in any order:
 
 TODO: If people's hand sizes are getting out of control, add a max and make players discard above this max at the end of their turn.
 
-
-
-
-
-
-TODO: ...clean up the sections below this...
-
 #Merging features
 
-When a feature meets its requirements, it is complete.  If any of the code cards ahead of your token on master has a shape which is in your feature branch, there is the chance for a merge conflict.  The shape becomes a potentially conflicting shape for your commit.  Roll the shape-die.  If the shape that comes up matches one of the potentially conflicting shapes, you have a merge conflict in that shape.  If the die comes up blank, reroll it. Turn a card in your commit with that shape sideways in your branch to indicate that the code is in conflict and must be merged.
+When a feature meets its requirements (including any Feature Creep cards played upon it), it is complete. If any of the **Code Cards** ahead of your token on master has a shape which is in your feature branch, there is the chance for a merge conflict. The shape becomes a potentially conflicting shape for your commit. Roll the shape-die. If the shape that comes up matches one of the potentially conflicting shapes, you have a merge conflict in that shape. If the die comes up blank, reroll it. Turn a card in your commit with that shape sideways in your branch to indicate that the code has a merge conflict conflict that must be resolved. Your feature branch is frozen until you are able to resolve it.
 
-You must add one more code card with that shape (of any language) to your commit before you can merge it back.  The additional code card doesn?t add to the point total for the feature. If you have one in your hand, you can play it immediately, otherwise you must wait until you draw a card with a matching symbol. Resolving a conflicted merge doesn?t count toward the maximum of playing two Code card plays (?commits?) in your turn. Your conflicted branch is considered ?code frozen? at this point. Opponents cannot play feature creep, bug, or other cards against it.
+TODO: House rules could decide the blank side: reroll, automatic no conflict, etc.
 
-Option: if you have a rebase action card, you can rebase your feature branch to the head of master to avoid any merge conflicts.  You must play the rebase card before rolling the die
+You must add (commit) one more code card with that shape (of any language) to your commit before you can merge it back. The additional code card doesn't add to the point total for the feature. If you have one in your hand, you can play it immediately, otherwise you must wait until you draw a card with a matching symbol. Resolving a conflicted merge doesn't count toward the maximum of playing two **Code Cards** ("commits") in your turn. Your conflicted branch is considered "code frozen" at this point. Opponents cannot play feature creep, bug, or other cards against it.
+
+Option: if you have a rebase action card, you can rebase the token representing where your feature branch was branched from to the head of master to avoid any merge conflicts.  You must play the rebase card before rolling the die.
 
 #End of game
 
@@ -125,7 +120,33 @@ When any player reaches 20 points, play ends after the last player in that round
 
 At the conclusion of the game, players count up the point total of all their completed features, and the player with the highest point total wins.
 
+#Example Round of Play
 
+TODO: text here describing each turn...
+
+![Initial Setup](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-1.png "Initial Setup")
+
+(text here)
+
+![Turn 1](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-2.png "Turn 1")
+
+(text here)
+
+![Turn 2](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-3.png "Turn 2")
+
+(text here)
+
+![Turn 3](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-4.png "Turn 3")
+
+(text here)
+
+![Turn 3 (continued)](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-5.png "Turn 3 (continued)")
+
+(text here)
+
+![Turn 4](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-6.png "Turn 4")
+
+(text here)
 
 
 ## License
