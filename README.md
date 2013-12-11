@@ -8,6 +8,10 @@
 - [Feature Card Spreadsheet](https://docs.google.com/a/elementaltechnologies.com/spreadsheet/ccc?key=0AsDelZZ75dXvdFFVV2lRV3hQTGtoRWcwMHFqVHY5NVE&usp=sharing#gid=0)
 - [Presentation](https://docs.google.com/a/elementaltechnologies.com/presentation/d/1tfpYc7mlG5RjarU2N7eCieb4zkBnLDMcqhZXxr6Dj-M/edit?usp=sharing)
 
+## Supplies
+
+TODO
+
 ## Inventory of Cards
 
 If you are printing this game yourself, you will need to print three copies of each of the Code card pages and two copies of the Action and Feature pages. Print the appropriate backs on each page. Only one copy of the Meta page is required. For best results, print on heavy cardstock and use the crop lines and a rotary cutter to trim the cards down to standard playing card size (2.5" x 3.5").
