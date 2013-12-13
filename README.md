@@ -122,27 +122,37 @@ At the conclusion of the game, players count up the point total of all their com
 
 #Example Round of Play
 
-TODO: text here describing each turn...
+This first diagram shows the initial game setup after cards have been dealt and players have selected which two of three **Feature Cards** they would like to keep. They have determined that Alice will go first, with play proceeding next to Bob, then Chuck.
 
 ![Initial Setup](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-1.png "Initial Setup")
 
-(text here)
+Alice takes the Ruby plus and the SQL star from the visible cards and replenishes those spots from the code deck.
+
+Alice has two **Feature Cards** she can play. She decides to go for the smaller feature. It is fewer points, but can be completed in just a couple of rounds, especially because she was able to grab two of the required cards. She plays the **Feature Card**, creating a local branch. She uses pennies to mark where she branched from master. She then makes two commits: JavaScript and Ruby. Next turn she should be able to play the SQL and finish out this feature.
 
 ![Turn 1](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-2.png "Turn 1")
 
-(text here)
+For Bob's turn, he takes the C++ triangle and the JavaScript star. He decided to work on one of his two feature branches, mainly because he now has a couple of C++ cards. He creates a local feature branch, branching from the same point Alice did, using dimes. He makes two C++ commits. 
+
+At this point, Bob decides to play an **Action Card**: a Ruby feature creep against Alice. To complete her feature, Alice now needs an extra Ruby commit. Play proceeds to Chuck.
 
 ![Turn 2](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-3.png "Turn 2")
 
-(text here)
+Chuck has a tiny feature branch available in his hand. He decided to go with the "Hello, World" feature, requiring a Python commit he already has right there in his hand! He plays the feature and makes the commit. This grants him an **Action Card** and a **Feature Card**. The Python card he played moves up to the Master branch and he gets to keep the 1 point **Feature Card** to keep track of his score. His turn isn't over yet:
 
 ![Turn 3](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-4.png "Turn 3")
 
-(text here)
+Chuck grabs the SQL square and the JavaScript circle from the visible **Code Cards** and replenishes them. He then starts a feature. Because he already used one of his two code commits against the first feature, he only has one remaining to play against this feature.
 
 ![Turn 3 (continued)](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-5.png "Turn 3 (continued)")
 
-(text here)
+TODO:
+
+- Alice takes cards
+- Alice plays (code conflict)
+- Commit
+
+etc.
 
 ![Turn 4](https://raw.github.com/elementaltech/the-git-game/master/images/sample-play-6.png "Turn 4")
 
