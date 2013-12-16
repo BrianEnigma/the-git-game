@@ -42,6 +42,8 @@ This is a single die with the 5 **Code Card** shapes on 5 faces and one blank fa
 - 5 = plus
 - 6 = blank
 
+If you have access to a 3D printer, you can print the STL file in the "die" folder. OpenSCAD source is also included, if that's your thing.
+
 ## Game Elements
 
 Here we take a deeper look at the parts and pieces...
